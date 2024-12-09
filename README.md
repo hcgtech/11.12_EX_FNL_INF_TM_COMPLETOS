@@ -24,17 +24,17 @@ El resultado de su trabajo, debe quedar como se muestra a continuación:
 * La siguiente estructura muestra las secciones y paginas más importantes. 
 * Esto quiere decir, que su documento puede tener más paginas de las mostradas aquí.
 
-![alt text](https://github.com/hcgalvantech/11.12_EX_FNL_INF_TM/blob/main/images/portada.PNG "PORTADA")
+![alt text](https://github.com/hcgtech/11.12_EX_FNL_INF_TM_COMPLETOS/blob/main/images/portada.PNG "PORTADA")
 
-![alt text](https://github.com/hcgalvantech/11.12_EX_FNL_INF_TM/blob/main/images/indice.PNG "INDICE") 
+![alt text](https://github.com/hcgtech/11.12_EX_FNL_INF_TM_COMPLETOS/blob/main/images/indice.PNG "INDICE") 
 
-![alt text](https://github.com/hcgalvantech/11.12_EX_FNL_INF_TM/blob/main/images/cuerpo.PNG "CUERPO DEL DOCUMENTO") 
+![alt text](https://github.com/hcgtech/11.12_EX_FNL_INF_TM_COMPLETOS/blob/main/images/cuerpo.PNG "CUERPO DEL DOCUMENTO") 
 
-![alt text](https://github.com/hcgalvantech/11.12_EX_FNL_INF_TM/blob/main/images/horizontal.PNG "HORIZONTAL CON IMAGEN")
+![alt text](https://github.com/hcgtech/11.12_EX_FNL_INF_TM_COMPLETOS/blob/main/images/horizontal.PNG "HORIZONTAL CON IMAGEN")
 
 ### 3. Estructura del Planilla de Cálculo. (PLANILLA DE CALCULO GOOGLE)
 A Partir de la base de datos que dejo disponible mas adelante.
-![alt text](https://github.com/hcgalvantech/11.12_EX_FNL_INF_TM/blob/main/images/tablaygrafica.png "TABLA Y GRAFICA")
+![alt text](https://github.com/hcgtech/11.12_EX_FNL_INF_TM_COMPLETOS/blob/main/images/tablaygrafica.png "TABLA Y GRAFICA")
 
 ---
 
@@ -68,7 +68,7 @@ _Debes respetar la siguiente consigna_
 > * Sección 4, Bibliografia y fuentes
 
 * Utiliza la siguiente imagen, lo copias y pegas en tu archivo que estás armando en la sección 3.
-> ![alt text](https://github.com/hcgalvantech/11.12_EX_FNL_INF_TM/blob/main/images/layout.png "GRAFICA")
+> ![alt text](https://github.com/hcgtech/11.12_EX_FNL_INF_TM_COMPLETOS/blob/main/images/layout.png "GRAFICA")
 
 * **REPASA LOS SIGUIENTE PUNTOS PARA VERIFICAR QUE HAS AGREGADO TODOS LOS DETALLES:**
 > * Recuerda colocar el encabezado y pie de pagina en los lugares indicados.
@@ -83,7 +83,7 @@ _Debes respetar la siguiente consigna_
  > * Transforma en una tabla y genera un grafico.
  > * Genera los datos descriptivos.
    
-   ![alt text](https://github.com/hcgalvantech/11.12_EX_FNL_INF_TM/blob/main/images/tablaygrafica.png "TABLA Y GRAFICA")
+   ![alt text](https://github.com/hcgtech/11.12_EX_FNL_INF_TM_COMPLETOS/blob/main/images/tablaygrafica.png "TABLA Y GRAFICA")
 
 **Paso 5:**
 * Abre la aplicación 
@@ -113,5 +113,5 @@ _Debes respetar la siguiente consigna_
       [[Presentaciones](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
       
       ```
-      
+
  **Paso 7:** Copiar y pegar el link del repositorio Github en la ventana del Examen
