@@ -109,9 +109,6 @@ _Debes respetar la siguiente consigna_
       ### Se adjunta una muestra de Control Indice de Accidentes e Incidentes
       [[Control Indice de Accidentes e Incidentes](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
       
-      ### Presentaciones sobre Protocolo de Emergencia y Evacuación.
-      [[Presentaciones](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
-      
       ```
 
  **Paso 7:** Copiar y pegar el link del repositorio Github en la ventana del Examen
