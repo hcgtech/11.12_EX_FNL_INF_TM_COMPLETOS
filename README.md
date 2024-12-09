@@ -59,13 +59,12 @@ _Debes respetar la siguiente consigna_
 > * Segunda página estará la Tabla de Contenido o Indice.
 > * Tercera página debe empezar todo el cuerpo del texto
 > * Recuerda que al final, agregar una pagina horizontal, donde debes pegar la grafica que dejo disponible
-> * Al final debes tener incorporado la bibliografía
 
-* Separa en 4 Secciones:
+
+* Separa en 3 Secciones:
 > * Sección 1, Portada
 > * Sección 2, Indice y Cuerpo del texto
 > * Sección 3, Imagen (PAGINA HORIZONTAL)
-> * Sección 4, Bibliografia y fuentes
 
 * Utiliza la siguiente imagen, lo copias y pegas en tu archivo que estás armando en la sección 3.
 > ![alt text](https://github.com/hcgtech/11.12_EX_FNL_INF_TM_COMPLETOS/blob/main/images/layout.png "GRAFICA")
@@ -86,9 +85,6 @@ _Debes respetar la siguiente consigna_
    ![alt text](https://github.com/hcgtech/11.12_EX_FNL_INF_TM_COMPLETOS/blob/main/images/tablaygrafica.png "TABLA Y GRAFICA")
 
 **Paso 5:**
-* Abre la aplicación 
-
-**Paso 6:**
 * En tu github, abre y edita el README.MD
 * Copia lo siguiente y modifica donde te solicita para que se vean tus archivos generados:
 *  ```txt
@@ -111,4 +107,4 @@ _Debes respetar la siguiente consigna_
       
       ```
 
- **Paso 7:** Copiar y pegar el link del repositorio Github en la ventana del Examen
+ **Paso 6:** Copiar y pegar el link de tu examen Github en la ventana del Examen
